@@ -244,7 +244,7 @@ class _MatchPageWidgetState extends State<MatchPageWidget>
                                       height: double.infinity,
                                       width: double.infinity,
                                       child: LimitViewsWidget(
-                                        type: '',
+                                        type: 'recomendacoes',
                                       ),
                                     ),
                                   ),
